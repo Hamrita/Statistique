@@ -4,4 +4,4 @@
 
 **Chapitre 2:** Distribution bivariée ([slides](https://github.com/Hamrita/Statistique/blob/main/Chapitre%202/Chap2.pdf)) ([R code](https://github.com/Hamrita/Statistique/blob/main/Chapitre%202/R_code.R)) ([Table chi-deux](https://github.com/Hamrita/Statistique/blob/main/Chapitre%202/table_khi2.pdf))
 
-**Chapitre 3:** Probabilité et lois ([slides])(https://github.com/Hamrita/Statistique/blob/main/Chapitre%203/Chap 3.pdf))
+**Chapitre 3:** Probabilité et lois ([slides](https://github.com/Hamrita/Statistique/blob/main/Chapitre%203/Chap%203.pdf))
